@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kor Yee Heng</h1>
 
 
----
-
 ### 🌟 About Me
 
 - 🎂 **Date of Birth**: 10 May 2005  
